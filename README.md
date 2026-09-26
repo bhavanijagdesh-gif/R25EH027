@@ -3,3 +3,6 @@ I have experience with C, C++, Python, SQL, Git, and GitHub, along with a growin
 ## Projects
 
 I have worked on various academic and personal projects, including FoodGrid, an AI-powered food waste reduction and sustainable redistribution system; Smart Soil & Environment Monitoring with Auto Irrigation, an IoT-based project for smart irrigation; PreservX, a smart food freshness and expiry monitoring concept; and my Personal Portfolio Website, designed to showcase my skills, projects, and achievements.
+## Learning Goals
+
+My learning goals are to strengthen my programming and problem-solving skills, improve my knowledge of Data Structures and Algorithms, and gain deeper expertise in Data Science and AI/ML. I also aim to build more practical projects, explore new technologies, and continuously improve my technical and development skills.
