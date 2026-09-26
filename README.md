@@ -1,1 +1,1 @@
-# R25EH027
+Hi! I’m Bhavani, a 3rd-semester Computer Science Engineering student at REVA University. I’m passionate about technology, programming, and exploring the world of Data Science and AI/ML. I enjoy learning new concepts, building practical projects, and improving my problem-solving skills through hands-on experience. I’m always curious to explore new technologies and turn ideas into meaningful projects.
